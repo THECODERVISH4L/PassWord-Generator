@@ -8,4 +8,4 @@ This is paticularly created for social media accounts, and bank accounts.To keep
 
 But, remember one thing you should always save this passwords in a safe file. As these passwords are not going to be easily remembered.
 
-Want to visit the online page of it click this link: https://thecodervish4l.github.io/PassWord-Generator/
+Want to visit the online page of it, click this link: https://thecodervish4l.github.io/PassWord-Generator/
